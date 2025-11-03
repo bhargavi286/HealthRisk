@@ -8,7 +8,7 @@ and predicts whether the person is likely to have heart disease.
 
 ##  Project Files
 
-## 🌐 Live Demo
-Check out the deployed Streamlit app here: [HealthRisk App](https://healthrisk.streamlit.app)
+## 🚀 Live Demo
+Check out the deployed Streamlit app here: [HealthRisk App](https://bhargavi286-healthrisk.streamlit.app)
 
 
